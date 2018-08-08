@@ -1,10 +1,9 @@
-.lp{
-width: 80;
-margin-left: 10;
-margin-right: 10;
-border: 10px solid;
-border-color: b
-
+.principal{
+	background-color: black;
+	
+}
+div{
+	
 
 }
 
@@ -14,8 +13,16 @@ padding: 15px;
 width: 214px
 height:164px;
 
+}
+form{
+	text-align: justify;
+}
 
-
-
-
+h2{
+	background-color:#BFC9CA;
+	text-align: center;
+}
+.piedPagina{
+	text-align: center;
+	background-color: #BFC9CA;
 }
